@@ -1,0 +1,24 @@
+
+git config --global user.name "beiyuouo"
+git config --global user.email "beiyu233@gmail.com"
+
+从已有仓库clone
+git clone https://github.com/fattydelivery/FattyDelivery.git
+git remote add origin https://github.com/fattydelivery/FattyDelivery.git
+
+add or change some file now
+
+git add .
+git commit -m "version qwq"
+git push -u origin master
+
+
+初始化和新建一个仓库
+git init
+git remote add origin https://github.com/fattydelivery/FattyDelivery.git
+
+add or change some file now
+
+git add .
+git commit -m "version qwq"
+git push -u origin master
