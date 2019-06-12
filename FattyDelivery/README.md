@@ -1,0 +1,2 @@
+从fattydelivery.Main开始运行
+fattydelivery.testClass可以生成一些有用的测试数据
